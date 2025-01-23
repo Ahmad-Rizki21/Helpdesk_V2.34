@@ -7,54 +7,54 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About This Project
+## Tentang Proyek Ini
 
-This project is built with the powerful and elegant Laravel framework, designed to make development a truly enjoyable and creative experience. It leverages the latest versions of various technologies to ensure a robust and efficient development environment.
+Proyek ini dibangun dengan menggunakan framework Laravel yang kuat dan elegan, dirancang untuk membuat pengembangan web menjadi pengalaman yang benar-benar menyenangkan dan kreatif. Proyek ini memanfaatkan versi terbaru dari berbagai teknologi untuk memastikan lingkungan pengembangan yang kuat dan efisien.
 
-### Technologies Used
+### Teknologi yang Digunakan
 
 -   **PHP 8.2^**
 -   **Laravel 11**
 -   **Filament v3**
 -   **MariaDB**
 
-## Key Features
+## Fitur Utama
 
--   **Simple, Fast Routing Engine:** [Learn more](https://laravel.com/docs/routing)
--   **Powerful Dependency Injection Container:** [Learn more](https://laravel.com/docs/container)
--   **Multiple Back-ends for Session and Cache Storage:** [Learn more](https://laravel.com/docs/session) | [Learn more](https://laravel.com/docs/cache)
--   **Expressive, Intuitive Database ORM (Eloquent):** [Learn more](https://laravel.com/docs/eloquent)
--   **Database Agnostic Schema Migrations:** [Learn more](https://laravel.com/docs/migrations)
--   **Robust Background Job Processing:** [Learn more](https://laravel.com/docs/queues)
--   **Real-time Event Broadcasting:** [Learn more](https://laravel.com/docs/broadcasting)
+-   **Mesin Routing yang Sederhana dan Cepat:** [Pelajari lebih lanjut](https://laravel.com/docs/routing)
+-   **Kontainer Dependency Injection yang Kuat:** [Pelajari lebih lanjut](https://laravel.com/docs/container)
+-   **Beberapa Backend untuk Penyimpanan Sesi dan Cache:** [Pelajari lebih lanjut](https://laravel.com/docs/session) | [Pelajari lebih lanjut](https://laravel.com/docs/cache)
+-   **ORM Database yang Ekspresif dan Intuitif (Eloquent):** [Pelajari lebih lanjut](https://laravel.com/docs/eloquent)
+-   **Migrasi Skema yang Agnostik terhadap Database:** [Pelajari lebih lanjut](https://laravel.com/docs/migrations)
+-   **Pemrosesan Pekerjaan Latar Belakang yang Kuat:** [Pelajari lebih lanjut](https://laravel.com/docs/queues)
+-   **Penyiaran Acara Waktu Nyata:** [Pelajari lebih lanjut](https://laravel.com/docs/broadcasting)
 
-## About Filament
+## Tentang Filament
 
-Filament is an elegant TALL (Tailwind CSS, Alpine.js, Laravel, and Livewire) stack admin panel for Laravel that makes it easy to build administrative interfaces. It provides a beautiful, out-of-the-box admin panel that is easy to customize.
+Filament adalah panel admin stack TALL (Tailwind CSS, Alpine.js, Laravel, dan Livewire) yang elegan untuk Laravel yang memudahkan pembuatan antarmuka administratif. Ini menyediakan panel admin out-of-the-box yang indah dan mudah disesuaikan.
 
--   **Admin Panel for Laravel**
--   **Built with Tailwind CSS, Alpine.js, Laravel, and Livewire**
--   **Easy to Customize and Extend**
+-   **Panel Admin untuk Laravel**
+-   **Dibangun dengan Tailwind CSS, Alpine.js, Laravel, dan Livewire**
+-   **Mudah Disesuaikan dan Diperluas**
 
-Learn more about Filament [here](https://filamentphp.com/docs/).
+Pelajari lebih lanjut tentang Filament [di sini](https://filamentphp.com/docs/).
 
 ## Database
 
-This project uses MariaDB as the database server, ensuring reliable and high-performance database management.
+Proyek ini menggunakan MariaDB sebagai server database, memastikan manajemen database yang andal dan berkinerja tinggi.
 
-## Learning Resources
+## Sumber Pembelajaran
 
-Laravel offers extensive documentation and a comprehensive video tutorial library to make it easy to get started. Here are some resources to help you learn and master Laravel:
+Laravel menawarkan dokumentasi yang luas dan perpustakaan video tutorial yang komprehensif untuk memudahkan memulai. Berikut beberapa sumber daya untuk membantu Anda belajar dan menguasai Laravel:
 
--   **[Laravel Documentation](https://laravel.com/docs)**
--   **[Laravel Bootcamp](https://bootcamp.laravel.com)**: Guided building of a modern Laravel application from scratch.
--   **[Laracasts](https://laracasts.com)**: Thousands of video tutorials on Laravel, modern PHP, unit testing, and JavaScript.
+-   **[Dokumentasi Laravel](https://laravel.com/docs)**
+-   **[Laravel Bootcamp](https://bootcamp.laravel.com)**: Panduan membangun aplikasi Laravel modern dari awal.
+-   **[Laracasts](https://laracasts.com)**: Ribuan video tutorial tentang Laravel, PHP modern, pengujian unit, dan JavaScript.
 
-## Laravel Sponsors
+## Sponsor Laravel
 
-We extend our thanks to the following sponsors for funding Laravel development. Interested in becoming a sponsor? Visit the [Laravel Partners program](https://partners.laravel.com).
+Kami mengucapkan terima kasih kepada sponsor berikut yang telah mendanai pengembangan Laravel. Tertarik menjadi sponsor? Kunjungi [program Laravel Partners](https://partners.laravel.com).
 
-### Premium Partners
+### Mitra Premium
 
 -   **[Vehikl](https://vehikl.com/)**
 -   **[Tighten Co.](https://tighten.co)**
@@ -70,18 +70,18 @@ We extend our thanks to the following sponsors for funding Laravel development. 
 -   **[byte5](https://byte5.de)**
 -   **[OP.GG](https://op.gg)**
 
-## Contributing
+## Berkontribusi
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Terima kasih telah mempertimbangkan untuk berkontribusi ke framework Laravel! Panduan kontribusi dapat ditemukan di [dokumentasi Laravel](https://laravel.com/docs/contributions).
 
-## Code of Conduct
+## Kode Etik
 
-To ensure a welcoming and inclusive community, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Untuk memastikan komunitas Laravel menyambut semua orang, harap tinjau dan patuhi [Kode Etik](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
+## Kerentanan Keamanan
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Jika Anda menemukan kerentanan keamanan dalam Laravel, harap kirim e-mail ke Taylor Otwell melalui [taylor@laravel.com](mailto:taylor@laravel.com). Semua kerentanan keamanan akan segera ditangani.
 
-## License
+## Lisensi
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Framework Laravel adalah perangkat lunak sumber terbuka yang dilisensikan di bawah [lisensi MIT](https://opensource.org/licenses/MIT).
